@@ -4,6 +4,8 @@ Ce repository contient le code source de l'api de l'application Session.
 
 Note: Le projet n'est plus maintenu.
 
+[https://app-session.com/](https://app-session.com/)
+
 ## Initialisation
 
 dans le `.env` : `APP_ENV=prod`
