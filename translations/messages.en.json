@@ -1,0 +1,28 @@
+{
+    "notifications": {
+        "comment_session": "username left a comment on a session that you interracted with",
+        "session_nearby": "Someone organised a session nearby !",
+        "new_session_participant": "username joined your session !",
+        "friendship_request_received": "username sent you a friend request",
+        "friendship_request_accepted": "username accepted your friend request",
+        "validated_spot": "Your spot spot_name has been validated, thanks !",
+        "validated_pictures": "Your pictures on the spot spot_name have been validated, thanks !",
+        "new_message": "username: message",
+        "user_asked_join_conversation": "username asked to join group_name"
+    },
+    "emails": {
+        "general": {
+                "signature": "The Session team"
+        },
+        "password_reset": {
+            "subject": "Forgotten password",
+            "first_line": "We received a request to reset your password",
+            "click_to_change_password": "Click on the link below to change your password",
+            "edit_password": "Change my password",
+            "re_login": "Once changed, you will immediately be able to use your new password"
+        },
+        "newsletter": {
+            "subject": "New update on Session !"
+        }
+    }
+}

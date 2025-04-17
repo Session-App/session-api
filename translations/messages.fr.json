@@ -1,0 +1,59 @@
+{
+    "notifications": {
+        "comment_session": "username a commenté une session à laquelle tu as interragi",
+        "session_nearby": "Quelqu'un a organisé une session à proximité !",
+        "new_session_participant": "username a rejoint ta session !",
+        "friendship_request_received": "username t'a envoyé une demande d'ami",
+        "friendship_request_accepted": "username a accepté ta demande d'ami",
+        "validated_spot": "Ton spot spot_name a été validé, merci !",
+        "validated_pictures": "Tes photos du spot spot_name ont été validées, merci !",
+        "new_message": "username: message",
+        "user_asked_join_conversation": "username a demandé à rejoindre group_name"
+    },
+    "emails": {
+        "general": {
+            "signature": "L'équipe Session"
+        },
+        "password_reset": {
+            "subject": "Mot de passe oublié",
+            "first_line": "Nous avons reçu une demande de réinitialisation de ton mot de passe.",
+            "click_to_change_password": "Cliques sur le lien ci-dessous pour changer ton mot de passe",
+            "edit_password": "Changer mon mot de passe",
+            "re_login": "Une fois changé, tu pourra directement te reconnecter avec ton nouveau mot de passe"
+        },
+        "newsletter": {
+            "subject": "Nouvelle mise à jour sur Session !"
+        }
+    },
+    "sports": {
+        "6": "StreetWorkout",
+        "5": "Skate",
+        "39": "Escalade",
+        "40": "Tennis",
+        "41": "Foot",
+        "42": "Rugby",
+        "47": "Volley",
+        "48": "Basket",
+        "4": "Petanque",
+        "50": "MountainBike",
+        "51": "Athletisme",
+        "56": "Badminton",
+        "57": "PingPong",
+        "59": "Handball",
+        "3": "Parkour",
+        "1": "Cliff",
+        "7": "Kitesurf",
+        "8": "Windsurf",
+        "2": "Surf",
+        "13": "Plongee",
+        "14": "Skimboard",
+        "16": "Kayak",
+        "10": "Peche",
+        "19": "Paddle",
+        "21": "Aviron",
+        "69": "ChasseSousMarine",
+        "72": "WingFoil",
+        "25": "Parapente",
+        "23": "Basejump"
+    }
+}

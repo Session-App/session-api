@@ -1,0 +1,4 @@
+mettre l'attribut sportXP à une liste vide pour tous les users :
+
+update user set mastered_tags='[]'
+

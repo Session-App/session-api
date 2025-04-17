@@ -1,0 +1,14 @@
+controllers:
+  resource: ../src/Controller/
+  type: annotation
+  prefix: /api
+
+kernel:
+  resource: ../src/Kernel.php
+  type: annotation
+
+gesdinet_jwt_refresh_token:
+  path: /api/token/refresh
+
+api_login:
+  path: /api/login

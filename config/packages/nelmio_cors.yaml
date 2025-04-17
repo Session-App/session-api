@@ -1,0 +1,17 @@
+nelmio_cors:
+  defaults:
+    origin_regex: true
+    allow_origin: ["*"]
+    allow_methods: ["*"]
+    allow_headers: ["*"]
+    allow_credentials: true
+    expose_headers: ["Link"]
+  paths:
+    "^/api/":
+      allow_origin: ["*"]
+      allow_headers: ["*"]
+      allow_methods: ["POST", "PUT", "GET", "DELETE"]
+    "^/metrics/":
+      allow_origin: ["*"]
+      allow_headers: ["*"]
+      allow_methods: ["POST", "PUT", "GET", "DELETE"]

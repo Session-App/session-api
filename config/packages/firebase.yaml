@@ -1,0 +1,4 @@
+kreait_firebase:
+    projects:
+        session:
+            credentials: '%kernel.project_dir%/config/session-firebase-adminsdk-key.json'
